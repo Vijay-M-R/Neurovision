@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+.env.*
+
+# Large model and dataset files
+Task01_BrainTumour/
+pretrained_models/
+*.nii
+*.nii.gz
+
+# Generated outputs
+outputs/
+backend/storage/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.tmp
+*.tar
