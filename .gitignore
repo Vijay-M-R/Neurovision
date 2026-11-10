@@ -31,3 +31,9 @@ Thumbs.db
 *.log
 *.tmp
 *.tar
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
